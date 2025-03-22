@@ -1,0 +1,133 @@
+{
+  "Brand": {
+    "title": "FOSO - Software Development Company",
+    "shortTitle": "FOSO",
+    "description": "FOSO - Where we aim for technological solutions for businesses to optimize processes, people, sustainable thinking and development.",
+    "blog": "Blog",
+    "not_found": "Page not found"
+  },
+  "Header": {
+    "menu": "Menu",
+    "about_us": "About Us",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "contact": "Contact",
+    "become_customer": "Become a Customer",
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "CORE": {
+    "reload": "Reload",
+    "more_pages": "More pages",
+    "previous": "Previous",
+    "next": "Next",
+    "back": "Back",
+    "explore_more": "Explore more",
+    "join_now": "Join now",
+    "try_now": "Try Now",
+    "not_found": "Not found",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "view": "View",
+    "close": "Close",
+    "submit": "Submit",
+    "confirm": "Confirm"
+  },
+  "SwitchLanguage": {
+    "title": "Language",
+    "vi": "Tiếng Việt",
+    "en": "English"
+  },
+  "SwitchMode": {
+    "title": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist.",
+    "backToHome": "Back to Home"
+  },
+  "ErrorPage": {
+    "title": "An error occurred",
+    "description": "An error occurred while processing your request.",
+    "backToHome": "Back to Home",
+    "info-title": "Error details"
+  },
+  "HomePage": {
+    "title": "Home",
+    "description": "Page not supported",
+    "hero": {
+      "title": "Learn Anytime, Anywhere",
+      "description": "Discover quality courses from top instructors"
+    },
+    "welcome": "Welcome to FOSO",
+    "explore_blog": "Explore Blog"
+  },
+  "BlogPage": {
+    "title": "Blog",
+    "description": "Latest news and knowledge updates",
+    "search": {
+      "title": "Search",
+      "placeholder": "Search articles..."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "blog": "Blog",
+      "resources": "Resources"
+    },
+    "detail": {
+      "author": "Author",
+      "date": "Date",
+      "read_time": "Read time",
+      "category": "Category",
+      "related": "Related posts",
+      "updated_at": "Updated on",
+      "table_of_contents": "Table of Contents",
+      "try_now": "Try Now",
+      "explore_more": "Explore More",
+      "share": "Share",
+      "related_posts": "Related Posts",
+      "feedback": {
+        "title": "How do you find this article?",
+        "responses": "responses",
+        "useful": "Useful",
+        "love": "Love",
+        "interesting": "Interesting",
+        "surprised": "Surprised",
+        "boring": "Boring",
+        "angry": "Angry"
+      }
+    },
+    "heading": {
+      "blog": "Blog",
+      "latest_news": "Latest News",
+      "latest": "Latest Posts",
+      "description": "Join FOSO to explore knowledge, technology trends and production now!"
+    },
+    "community": {
+      "title": "FOSO Community",
+      "description": "Join FOSO community to learn and share knowledge together"
+    },
+    "categories": {
+      "title": "Categories",
+      "all": "All",
+      "website": "Website Design",
+      "mobile": "Mobile App Design",
+      "production": "Production Management",
+      "sales": "Sales Management",
+      "press": "Press About FOSO",
+      "news": "FOSO News"
+    }
+  }
+}

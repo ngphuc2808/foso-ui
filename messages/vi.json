@@ -1,0 +1,133 @@
+{
+  "Brand": {
+    "title": "FOSO - Công ty phát triển phần mềm",
+    "shortTitle": "FOSO",
+    "description": "FOSO - Nơi hướng đến các giải pháp công nghệ cho doanh nghiệp tối ưu quy trình, con người, tư duy bền vững và phát triển.",
+    "name": "FOSO",
+    "not_found": "Không tìm thấy trang"
+  },
+  "Header": {
+    "menu": "Menu",
+    "about_us": "Về Chúng tôi",
+    "solutions": "Giải pháp",
+    "resources": "Tài nguyên",
+    "contact": "Liên hệ",
+    "become_customer": "Trở Thành Khách Hàng",
+    "home": "Trang chủ",
+    "blog": "Blog"
+  },
+  "CORE": {
+    "reload": "Tải lại",
+    "more_pages": "Thêm trang",
+    "previous": "Trang trước",
+    "next": "Trang kế tiếp",
+    "back": "Quay lại",
+    "explore_more": "Khám phá thêm",
+    "join_now": "Tham gia ngay",
+    "try_now": "Trải Nghiệm Ngay",
+    "not_found": "Không tìm thấy",
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "retry": "Thử lại",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "create": "Tạo mới",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "sort": "Sắp xếp",
+    "view": "Xem",
+    "close": "Đóng",
+    "submit": "Gửi",
+    "confirm": "Xác nhận"
+  },
+  "SwitchLanguage": {
+    "title": "Ngôn ngữ",
+    "vi": "Tiếng Việt",
+    "en": "English"
+  },
+  "SwitchMode": {
+    "title": "Giao diện",
+    "light": "Sáng",
+    "dark": "Tối",
+    "system": "Hệ thống"
+  },
+  "NotFoundPage": {
+    "title": "Không tìm thấy trang",
+    "description": "Trang bạn đang tìm kiếm không tồn tại.",
+    "backToHome": "Về trang chủ"
+  },
+  "ErrorPage": {
+    "title": "Đã xảy ra lỗi",
+    "description": "Đã xảy ra lỗi khi xử lý yêu cầu của bạn.",
+    "backToHome": "Về trang chủ",
+    "info-title": "Chi tiết lỗi"
+  },
+  "HomePage": {
+    "title": "Trang chủ",
+    "welcome": "Chào mừng đến với FOSO",
+    "description": "Trang không hỗ trợ",
+    "hero": {
+      "title": "Học tập mọi lúc, mọi nơi",
+      "description": "Khám phá các khóa học chất lượng từ các giảng viên hàng đầu"
+    },
+    "explore_blog": "Khám phá Blog"
+  },
+  "BlogPage": {
+    "title": "Blog",
+    "description": "Cập nhật tin tức và kiến thức mới nhất",
+    "search": {
+      "title": "Tìm Kiếm",
+      "placeholder": "Tìm kiếm bài viết..."
+    },
+    "breadcrumb": {
+      "home": "Trang chủ",
+      "resources": "Tài nguyên",
+      "blog": "Blog"
+    },
+    "detail": {
+      "author": "Tác giả",
+      "date": "Ngày đăng",
+      "read_time": "Thời gian đọc",
+      "category": "Danh mục",
+      "related": "Bài viết liên quan",
+      "updated_at": "Cập nhật vào",
+      "table_of_contents": "Nội Dung Bài Viết",
+      "try_now": "Trải Nghiệm Ngay",
+      "explore_more": "Khám phá thêm",
+      "share": "Chia sẻ",
+      "related_posts": "Bài Viết Liên Quan",
+      "feedback": {
+        "title": "Bạn thấy bài viết như thế nào?",
+        "responses": "phản hồi",
+        "useful": "Hữu ích",
+        "love": "Yêu thích",
+        "interesting": "Thú vị",
+        "surprised": "Bất ngờ",
+        "boring": "Nhàm chán",
+        "angry": "Tức giận"
+      }
+    },
+    "heading": {
+      "blog": "Blog",
+      "latest_news": "Cập Nhật Tin Tức",
+      "latest": "Bài Viết Mới Nhất",
+      "description": "Cùng FOSO khám phá kiến thức, xu hướng công nghệ và sản xuất ngay!"
+    },
+    "community": {
+      "title": "Cộng đồng FOSO",
+      "description": "Tham gia cộng đồng FOSO để cùng nhau học tập và chia sẻ kiến thức"
+    },
+    "categories": {
+      "title": "Danh Mục",
+      "all": "Tất cả",
+      "website": "Thiết Kế Website",
+      "mobile": "Thiết Kế App Mobile",
+      "production": "Quản Lý Sản Xuất",
+      "sales": "Quản Lý Bán Hàng",
+      "press": "Báo Chí Nói Về FOSO",
+      "news": "Tin Tức FOSO"
+    }
+  }
+}

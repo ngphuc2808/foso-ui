@@ -1,0 +1,5 @@
+[
+  { "subdomain": "client1", "type": "wedding" },
+  { "subdomain": "client2", "type": "event" },
+  { "subdomain": "client3", "type": "wedding" }
+]
